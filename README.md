@@ -38,6 +38,18 @@ The model trained is a Gradient Boosting Classifier with the below parameters:
 
 The model accuarcy on the training dataset is 0.73 and accuracy on the test dataset is 0.71. The major features contributing to the model were membership_period, scocial and income.
 
+
+## Acknowledgment
+
+- Data Source : 
+Starbucks users data was provided by Udacity.
+
+- Useful Resources :  
+Gradient Boosting Classifier documentaton -> https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+Sklearn pipeline documentation -> https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+Sklearn Logistic Regression documentation -> https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
+
 ## Link to the Blog post
 
 https://medium.com/@sxsubra.das/udacity-data-science-capstone-project-789bfa3fed6f
